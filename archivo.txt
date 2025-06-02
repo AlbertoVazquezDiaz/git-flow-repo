@@ -1,6 +1,8 @@
 Estamos trabajando en el archivo archivo.txt.
 Commit 2?
 
+user3 commit
+user3-commit2
 user2-commit-1
 user-2-commit-2
 user2-commit-3
