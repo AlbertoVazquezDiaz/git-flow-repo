@@ -2,3 +2,4 @@ Estamos trabajando en el archivo archivo.txt.
 Commit 2?
 
 user1-commit-1
+user1-commit-2
